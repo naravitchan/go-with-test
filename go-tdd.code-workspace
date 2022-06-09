@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "hello-world"
+		},
+		{
+			"path": "integers"
+		},
+		{
+			"path": "iteration"
+		},
+		{
+			"path": "slice"
+		}
+	],
+	"settings": {}
+}
